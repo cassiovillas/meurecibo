@@ -1,0 +1,1 @@
+Software grátis para criação de recibo em 2 vias no formato PDF.
